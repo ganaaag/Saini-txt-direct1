@@ -3,10 +3,10 @@
 import os
 from os import environ
 
-API_ID = int(environ.get("API_ID", "28094744"))
-API_HASH = environ.get("API_HASH", "a75af4285edc7747c57bb19147ca0b9b")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
-OWNER = int(environ.get("OWNER", "5680454765"))
+API_ID = int(environ.get("API_ID", "25403301"))
+API_HASH = environ.get("API_HASH", "d700b4abe3d023165894291b6fcbd3a0")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7247251596:AAH557vA96a3Gbywpia1DnFWKhiwjEoL6hk")
+OWNER = int(environ.get("OWNER", "1081310808"))
 CREDIT = "𝄟⃝‌🐬🇳‌ɪᴋʜɪʟ𝄟⃝🐬"
 #WEBHOOK = True  # Don't change this
 #PORT = int(os.environ.get("PORT", 8080))  # Default to 8000 if not set
